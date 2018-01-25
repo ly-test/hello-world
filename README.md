@@ -1,1 +1,1 @@
-ttttt[https://google.com]
+[test](https://test.com)
